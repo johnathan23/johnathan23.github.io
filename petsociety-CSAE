@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Standards Against Child Sexual Abuse and Exploitation (CSAE)</title>
+  <style>
+    :root {
+      --primary-color: #d62828;
+      --background-color: #f9f9f9;
+      --text-color: #222;
+      --link-color: #0077cc;
+      --font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      --max-width: 720px;
+    }
+    body {
+      margin: 0;
+      padding: 2rem;
+      background-color: var(--background-color);
+      font-family: var(--font-family);
+      color: var(--text-color);
+      display: flex;
+      justify-content: center;
+      line-height: 1.5;
+    }
+    main {
+      background: white;
+      padding: 2.5rem 3rem;
+      border-radius: 10px;
+      box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+      max-width: var(--max-width);
+      width: 100%;
+    }
+    h1 {
+      color: var(--primary-color);
+      font-weight: 700;
+      margin-bottom: 1rem;
+      font-size: 1.8rem;
+    }
+    p {
+      margin-bottom: 1.25rem;
+      font-size: 1rem;
+    }
+    ul {
+      padding-left: 1.3rem;
+      margin-bottom: 1.5rem;
+    }
+    li {
+      margin-bottom: 0.75rem;
+    }
+    a {
+      color: var(--link-color);
+      text-decoration: none;
+      transition: color 0.2s ease-in-out;
+    }
+    a:hover,
+    a:focus {
+      color: var(--primary-color);
+      text-decoration: underline;
+      outline: none;
+    }
+    footer {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #666;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Standards Against Child Sexual Abuse and Exploitation (CSAE)</h1>
+    <p>
+      Our app adheres to strict policies to prevent child sexual abuse and exploitation (CSAE). We are committed to providing a safe environment for all users and comply with recognized external standards.
+    </p>
+    <p>To learn more about these important standards, please visit the following external resources:</p>
+    <ul>
+      <li><a href="https://support.google.com/googleplay/android-developer/answer/14747720?hl=en" target="_blank" rel="noopener noreferrer">Google Play Child Safety Standards Policy</a></li>
+      <li><a href="https://parentpass.app/child-safety-standards-policy/" target="_blank" rel="noopener noreferrer">Parent Pass - Child Safety Standards Policy</a></li>
+      <li><a href="https://fotoapp.co/csae-policy" target="_blank" rel="noopener noreferrer">Foto App CSAE Policy</a></li>
+      <li><a href="https://backcountrybeauties.com/connection-app/standards-against-child-sexual-abuse-and-exploitation-csae/" target="_blank" rel="noopener noreferrer">Backcountry Beauties - CSAE Standards</a></li>
+      <li><a href="https://about.voronoiapp.com/standards-against-child-sexual-abuse-and-exploitation-csae/" target="_blank" rel="noopener noreferrer">Voronoi App CSAE Standards</a></li>
+    </ul>
+    <p>Please ensure you review these standards to help us maintain a safe and respectful environment for everyone.</p>
+
+    <footer>
+      &copy; 2024 Pet Search App - Committed to user safety
+    </footer>
+  </main>
+</body>
+</html>
